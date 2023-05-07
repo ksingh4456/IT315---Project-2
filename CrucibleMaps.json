@@ -1,13 +1,13 @@
 {
   "CrucibleMaps":
   [
-    {"MapName":"Difficult","MapLocation":"2521 ft","GameMode":1,"MapImageName":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"MapName":"Difficult","MapLocation":"2521 ft","GameMode":1,"MapImageName":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"MapName":"Difficult","MapLocation":"2521 ft","GameMode":1,"MapImageName":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"MapName":"Difficult","MapLocation":"2521 ft","GameMode":1,"MapImageName":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"MapName":"Difficult","MapLocation":"2521 ft","GameMode":1,"MapImageName":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"MapName":"Difficult","MapLocation":"2521 ft","GameMode":1,"MapImageName":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"MapName":"Difficult","MapLocation":"2521 ft","GameMode":1,"MapImageName":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"}
+    {"MapName":"Altar of Flame","MapLocation":"Mercury","GameMode":"Clash","MapImageName":"https://raw.githubusercontent.com/ksingh4456/IT315---Project-2/main/Altar_of_Flame_image.jpg"},
+    {"MapName":"BannerFall","MapLocation":"Earth","GameMode":"Control","MapImageName":"https://raw.githubusercontent.com/ksingh4456/IT315---Project-2/main/Bannerfall_image.jpg},
+    {"MapName":"Cauldron","MapLocation":"Moon","GameMode":"Supremcy","MapImageName":"https://raw.githubusercontent.com/ksingh4456/IT315---Project-2/main/Cauldron_image.jpg"},
+    {"MapName":"Distant Shore","MapLocation":"Nessus","GameMode":"Clash","MapImageName":"https://raw.githubusercontent.com/ksingh4456/IT315---Project-2/main/Distant_Shore_image.jpg"},
+    {"MapName":"Javelin-4","MapLocation":"Io","GameMode":"Rumble","MapImageName":"https://raw.githubusercontent.com/ksingh4456/IT315---Project-2/main/Javelin-4_image.jpg"},
+    {"MapName":"Twilight Gap","MapLocation":"Earth","GameMode":"Control","MapImageName":"https://raw.githubusercontent.com/ksingh4456/IT315---Project-2/main/Twilight_Gap_Image.jpg"},
+    {"MapName":"Widow's Court","MapLocation":"Earth","GameMode":"Rumble","MapImageName":"https://raw.githubusercontent.com/ksingh4456/IT315---Project-2/main/Widow's_Court_Image.jpg"}
   ],
   "Status":"OK"
 }
