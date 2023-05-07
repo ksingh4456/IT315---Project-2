@@ -1,0 +1,13 @@
+{
+  "CrucibleMaps":
+  [
+    {"MapName":"Difficult","MapLocation":"2521 ft","GameMode":1,"MapImageName":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"MapName":"Difficult","MapLocation":"2521 ft","GameMode":1,"MapImageName":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"MapName":"Difficult","MapLocation":"2521 ft","GameMode":1,"MapImageName":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"MapName":"Difficult","MapLocation":"2521 ft","GameMode":1,"MapImageName":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"MapName":"Difficult","MapLocation":"2521 ft","GameMode":1,"MapImageName":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"MapName":"Difficult","MapLocation":"2521 ft","GameMode":1,"MapImageName":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"MapName":"Difficult","MapLocation":"2521 ft","GameMode":1,"MapImageName":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"}
+  ],
+  "Status":"OK"
+}
