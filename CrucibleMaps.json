@@ -1,7 +1,7 @@
 {
   "CrucibleMaps":
   [
-    {"MapName":"Altar of Flame","MapLocation":"Mercury","GameMode":"Clash","MapImageName":"https://raw.githubusercontent.com/ksingh4456/IT315---Project-2/main/Altar_of_Flame_image.jpg"},
+    {"MapName":"Altar of Flame","MapLocation":"Mercury","GameMode":"Clash","MapImageName":"https://d2.destinygamewiki.com/mediawiki/images/thumb/3/32/Altar_of_Flame_banner.jpg/1200px-Altar_of_Flame_banner.jpg"},
     {"MapName":"BannerFall","MapLocation":"Earth","GameMode":"Control","MapImageName":"https://raw.githubusercontent.com/ksingh4456/IT315---Project-2/main/Bannerfall_image.jpg"},
     {"MapName":"Cauldron","MapLocation":"Moon","GameMode":"Supremcy","MapImageName":"https://raw.githubusercontent.com/ksingh4456/IT315---Project-2/main/Cauldron_image.jpg"},
     {"MapName":"Distant Shore","MapLocation":"Nessus","GameMode":"Clash","MapImageName":"https://raw.githubusercontent.com/ksingh4456/IT315---Project-2/main/Distant_Shore_image.jpg"},
