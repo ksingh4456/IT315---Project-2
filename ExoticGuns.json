@@ -1,8 +1,8 @@
 {
   "ExoticGuns":
   [
-    {"GunName":"SunShot","WeaponSlot":"Primary","GunType":"HandCannon","GunImageName":"https://titles.trackercdn.com/destiny/common/destiny2_content/icons/7e2480b7abb1091ad6fe981641fcfe92.jpg","GunWebSite":"https://destinytracker.com/destiny-2/db/items/2907129557-sunshot"},
-    {"GunName":"Witherhoard","WeaponSlot":"Primary","GunType":"Grenade Launcher","GunImageName":"https://titles.trackercdn.com/destiny/common/destiny2_content/icons/e805ada80a07dccb6db9db71199ab273.jpg","GunWebSite":"https://destinytracker.com/destiny-2/db/items/2357297366-witherhoard"},
+    {"GunName":"Sunshot","WeaponSlot":"Primary","GunType":"HandCannon","GunImageName":"https://titles.trackercdn.com/destiny/common/destiny2_content/icons/7e2480b7abb1091ad6fe981641fcfe92.jpg","GunWebSite":"https://destinytracker.com/destiny-2/db/items/2907129557-sunshot"},
+    {"GunName":"Witherhoard","WeaponSlot":"Primary","GunType":"GrenadeLauncher","GunImageName":"https://titles.trackercdn.com/destiny/common/destiny2_content/icons/e805ada80a07dccb6db9db71199ab273.jpg","GunWebSite":"https://destinytracker.com/destiny-2/db/items/2357297366-witherhoard"},
     {"GunName":"Leviathan's Breath","WeaponSlot":"Heavy","GunType":"Combat Bow","GunImageName":"https://titles.trackercdn.com/destiny/common/destiny2_content/icons/f062142edf3a76e89920f34147d69947.jpg","GunWebSite":"https://destinytracker.com/destiny-2/db/items/2591746970-leviathans-breath"},
     {"GunName":"Malfeasance","WeaponSlot":"Primary","GunType":"HandCannon","GunImageName":"https://titles.trackercdn.com/destiny/common/destiny2_content/icons/0c2816822b0a1787157f1e90d3bd057c.jpg","GunWebSite":"https://destinytracker.com/destiny-2/db/items/204878059-malfeasance"},
     {"GunName":"Jotunn","WeaponSlot":"Special","GunType":"Fusion Rifle","GunImageName":"https://titles.trackercdn.com/destiny/common/destiny2_content/icons/507250e2d087e20c9c2572113dae8f72.jpg","GunWebSite":"https://destinytracker.com/destiny-2/db/items/417164956-jotunn"},
